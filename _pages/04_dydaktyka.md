@@ -8,24 +8,18 @@ lang: pl
 ---
 
 
-* [Digital Humanities Summer Institute](http://www.dhsi.org/index.php) (DHSI) in Victoria BC
-* [The European Summer University “Culture & Technology”](http://www.culingtec.uni-leipzig.de/ESU_C_T/node/97) (ESU) in Leipzig.
-* GIAT-IQLA summer school in Padova
+Pomijając regularne kursy uniwersyteckie oraz seminarium dla doktorantów – którym na razie nie poświęcam tutaj uwagi; brakujące materiały będę zamieszczać sukcesywnie – pewnym zainteresowaniem cieszą się warsztaty i kursy ze statystycznej analizy tekstu, które prowadzę na różnych letnich szkołach i czasem podczas konferencji. Zainteresowanych udziałem w jednym z takich kursów odsyłam w następujące miejsca, gdzie pojawiam się dość regularnie:
+
+* [Digital Humanities Summer Institute](http://www.dhsi.org/index.php) (DHSI) w Victorii (Kanada).
+* [The European Summer University “Culture & Technology”](http://www.culingtec.uni-leipzig.de/ESU_C_T/node/97) (ESU) w Lipsku.
+* [GIAT-IQLA Summer School in Quantitative Analysis of Textual Data](http://www.giat.org/?page_id=11&lang=en) w Padwie.
 
 
-## Documentation of the package ‘stylo’
 
-* for (real) beginners: a crush introduction in the form of a [slideshow](https://computationalstylistics.github.io/stylo_nutshell/)
-* for (sort of) beginners: a concise [HOWTO](https://sites.google.com/site/computationalstylistics/stylo/stylo_howto.pdf)
-* for advanced users: a paper in [R Journal](https://journal.r-project.org/archive/2016/RJ-2016-007/RJ-2016-007.pdf)
-* full documentation at [CRAN](https://cran.r-project.org/web/packages/stylo/stylo.pdf)
 
-Blog posts on non-obvious functions of `stylo`:
+## Dokumentacja programu ‘stylo’
 
-* [Authorship verification with the package 'stylo'](https://computationalstylistics.github.io/blog/imposters)
-* [Cross-validation using the function `classify()`](https://computationalstylistics.github.io/blog/cross_validation)
-* [Custom distance measures](https://computationalstylistics.github.io/blog/custom_distances)
-* [Testing rolling stylometry](https://computationalstylistics.github.io/blog/rolling_stylometry)
+Prędzej czy później na stronie niniejszej powinna się znaleźć dokumentacja dostępnych funkcji programu ‘stylo’, bo jest to najczęściej przeze mnie wykorzystywane narzędzie. Zainteresowany czytelnik będzie łaskaw spojrzeć na [angielską wersję niniejszej strony]({{ site.baseurl }}/teaching/), gdzie zamieszczam garść przydatnych dokumentów i linków.
 
 
 

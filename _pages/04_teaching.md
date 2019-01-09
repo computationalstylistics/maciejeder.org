@@ -8,6 +8,7 @@ lang: en
 ---
 
 
+Apart from my regular university courses – which are not covered on this page yet – I enjoy teaching workshops and other extra-curricular courses at different summer schools, conferences, and so forth. These include, at the first place, the following annual (or biannual) events:
 
 * [Digital Humanities Summer Institute](http://www.dhsi.org/index.php) (DHSI) in Victoria BC, Canada.
 * [The European Summer University “Culture & Technology”](http://www.culingtec.uni-leipzig.de/ESU_C_T/node/97) (ESU) in Leipzig, Germany.
@@ -15,6 +16,8 @@ lang: en
 
 
 ## Documentation of the package ‘stylo’
+
+
 
 * for (real) beginners: a crush introduction in the form of a [slideshow](https://computationalstylistics.github.io/stylo_nutshell/)
 * for (sort of) beginners: a concise [HOWTO](https://sites.google.com/site/computationalstylistics/stylo/stylo_howto.pdf)
@@ -27,6 +30,5 @@ lang: en
 * [Cross-validation using the function `classify()`](https://computationalstylistics.github.io/blog/cross_validation)
 * [Custom distance measures](https://computationalstylistics.github.io/blog/custom_distances)
 * [Testing rolling stylometry](https://computationalstylistics.github.io/blog/rolling_stylometry)
-
 
 
