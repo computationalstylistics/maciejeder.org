@@ -1,0 +1,10 @@
+---
+layout: page
+---
+
+{% if page.img %}
+  <div class="profile col one right">
+      <img class="one" src="{{ page.img | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+  </div>
+{% endif %}
+{{ content }}

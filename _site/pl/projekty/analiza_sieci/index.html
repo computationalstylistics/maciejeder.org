@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Maciej Eder / Bootstrap Consensus Networks</title>
+  <meta name="description" content="        Fig. 1: Wybór 124 starożytnych tekstów greckich (proza, poezja epicka i dramat) porównanych za pomocą metody Bootstrap Consensus Networks.">
+  <link rel="shortcut icon" href="http://localhost:4000/assets/img/favicon.ico">
+  <link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/pl/projekty/analiza_sieci/">
+  
+  
+  <link rel="alternate" hreflang="en" href="/projects/networks/" />
+  <link rel="alternate" hreflang="pl" href="/pl/projekty/analiza_sieci/" />
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    
+    <span class="site-title">
+        
+        Maciej <strong>Eder</strong>
+    </span>
+    
+
+    <nav class="site-nav">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+              <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+              <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+      <div class="trigger">
+        <!-- About -->
+                
+        
+        
+          
+          
+            <a class="page-link" href="http://localhost:4000/pl/">o mnie</a>
+          
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+
+        
+        
+          
+        
+          
+            <a class="page-link" href="http://localhost:4000/pl/projekty/">projekty</a>
+          
+        
+          
+            <a class="page-link" href="http://localhost:4000/pl/publikacje/">publikacje</a>
+          
+        
+          
+            <a class="page-link" href="http://localhost:4000/pl/dydaktyka/">dydaktyka</a>
+          
+        
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+        
+        
+
+  
+      <!-- projects --> 
+  
+        
+        
+          <a href="/projects/networks/" class="en">EN</a> 
+        
+          <a href="/pl/projekty/analiza_sieci/" class="pl">PL</a> 
+        
+
+
+  
+        <!-- CV link -->
+        <!-- <a class="page-link" href="http://localhost:4000/assets/pdf/CV.pdf">vitae</a> -->
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+
+
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    
+      <h1 class="post-title">Bootstrap Consensus Networks</h1>
+      <h5 class="post-description">Metoda stylometryczna do obrazowania podobieństw między tekstami wykorzystująca narzędzia analizy sieci.</h5>
+    
+    
+  </header>
+
+  <article class="post-content Bootstrap Consensus Networks clearfix">
+    
+<div>
+    <img class="col three left" src="/assets/img/network.jpg" alt="" title="Wybór 124 starożytnych tekstów greckich (proza, poezja epicka i dramat) porównanych za pomocą metody Bootstrap Consensus Networks" />
+</div>
+<div class="col three caption">
+    Fig. 1: Wybór 124 starożytnych tekstów greckich (proza, poezja epicka i dramat) porównanych za pomocą metody Bootstrap Consensus Networks.
+</div>
+
+<p>Stylometria – by podać możliwie najbardziej zwięzłą definicję – polega na porównywaniu policzalnych cech języka w tekstach pisanych, by wyodrębnić grupy podobnych dzieł. Bez względu na to, czy taka procedura ma na celu określenie autorstwa anonimowego testu, czy też wyodrębnienie różnch typów tekstów, podstawowy cel jest zawsze taki sam: chodzi o pogrupowanie podobnych do siebie tekstów w jednorodne grupy.</p>
+
+<p>Wiele jest metod służących temu zadaniu, w tym hierarchiczna analiza skupień (Hierarchical Cluster Analysis) czy skalowanie wielowymiarowe (Multidimensional Scaling). Celem niniejszego projektu było przezwyciężenie pewnych ograniczeń tych metod; za inspirację posłużyła metodologia analizy sieci oraz techniki wielokrotnego próbkowania (tzw. bootstrap). Nazwa metody – Bootstrap Consensus Networks – nadal czeka na swój polski ekwiwalent.</p>
+
+<p>Pomysł był następujący: Niech węzłami sieci będą poszczególne teksty z korpusu i niech każdy z tych tekstów zostanie połączony ze swoim najbliższym sąsiadem (tj. tekstem najbardziej podobnym stylistycznie). Tym samym dostaniemy sieć najsilniejszych podobieństw. Niestety już na pierwszy rzut oka widać, że taka sieć przejmie wszystkie ograniczenia dotychczasowych metod, np. analizy skupień. Połączenia między tekstami będą przecież trochę inne dla 100 najczęstszych słów, inne dla 200 słów itd. Jeżeli jednak dopuścimy myśl, że wyniki dla 100 słów i dla 500 słów pokazują w gruncie rzeczy tę samą rzeczywistość tekstową, ale oglądaną z różnych perspektyw, to możemy podjąć próbę ogarnięcia tej skomplikowanej struktury przez syntezę wielu jednostkowych analiz. Mówiąc obrazowo: jeśli chcemy się czegoś dowiedzieć o katedrze Notre-Dame w Rouen, nie wystarczy obejrzenie jednej fotografii. Kilka różnych ujęć od frontu i od tyłu, w różnych porach dnia, uzupełnione jakimiś sztychami z epoki oraz przede wszystkim słynnymi płótnami Claude Moneta – dopiero wielość perspektyw da nam jakieś wyobrażenie o katedrze. Choć nadal nie jest to wiedza obiektywna, to jednak mając wiele punktów odniesienia, jesteśmy w stanie oddzielić to, co powtarzalne, od tego, co akcydentalne.</p>
+
+<p>Tę samą zasadę możemy zastosować w badaniu tekstów literackich. Jeśli dzarysowaną powyżej procedurę znajdowania podobieństw tekstowych powtórzymy dla różnych parametrów eksperymentu, na przykład dla 100, 200, 300, … 1000 najczęstszych słów, i zsumujemy wszystkie połączenia, które pojawiły się na poszczególnych etapach obliczeń, to efektem będzie sieć rejestrująca wszystkie jednostkowe „fotografie” stylometryczne. Oczywiście pewne połączenia będą się powtarzały, inne okażą się jednorazowe. Im częściej dane połączenie się powtórzy, tym mocniejsza będzie jego siła, co na wykresie zostanie przedstawione grubszą linią. Grubość połączenia jest więc miarą podobieństwa, a pośrednio również miarą stabilności wyników. Rys. 1 przedstawia tego typu sieć; została ona utworzona na podstawie 124 utworów starogreckich prozatorskich, epickich i dramatycznych (dobór konkretnych tekstów był dość przypadkowy).</p>
+
+<p>Więcej na temat niniejszej metody znajduje się <a href="https://computationalstylistics.github.io/projects/bootstrap-networks/">tutaj</a> (w języku angielskim). Pełne studium, w którym wyjaśnione zostały zarówno założenia teoretyczne, jak i implementacja:</p>
+
+<blockquote>
+  <p><strong>Eder, M.</strong> (2017). <a href="http://dsh.oxfordjournals.org/content/early/2015/12/02/llc.fqv061">Visualization in stylometry: cluster analysis using networks</a>. <em>Digital Scholarship in the Humanities</em>, <strong>32</strong>(1): 50–64, [<a href="https://github.com/computationalstylistics/preprints/blob/master/m-eder_visualization_in_stylometry.pdf">pre-print</a>].</p>
+</blockquote>
+
+<p>Podstawowe założnia metody zostały również, w postaci nieco uproszczonej, przedstawione w niniejszym artykule:</p>
+
+<blockquote>
+  <p><strong>Eder, M.</strong> (2014). Metody ścisłe w literaturoznawstwie i pułapki pozornego obiektywizmu – przykład stylometrii. <em>Teksty Drugie</em>, <strong>2</strong>: 90–105.</p>
+</blockquote>
+
+
+
+  </article>
+
+  
+
+  
+
+</div>
+
+      </div>
+    </div>
+
+    <footer>
+
+  <div class="wrapper">
+    &copy; Copyright 2019 by Maciej Eder.
+    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
+    
+  </div>
+
+</footer>
+
+
+    <!-- Load jQuery -->
+<script src="//code.jquery.com/jquery-1.12.4.min.js"></script>
+
+<!-- Load Common JS -->
+<script src="http://localhost:4000/assets/js/common.js"></script>
+
+
+<!-- Load KaTeX -->
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.js"></script>
+<script src="http://localhost:4000/assets/js/katex.js"></script>
+
+
+
+
+<!-- Include custom icon fonts -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/fontawesome-all.min.css">
+<link rel="stylesheet" href="http://localhost:4000/assets/css/academicons.min.css">
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-XXXXXXXXX', 'auto');
+ga('send', 'pageview');
+</script>
+
+
+  </body>
+
+</html>
