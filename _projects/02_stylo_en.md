@@ -15,8 +15,7 @@ lang: en
     Fig. 1: Cluster Analysis of 66 English novels from Jane Austen to Joseph Conrad: produced using the package ‘stylo’.
 </div>
 
-Hidden from academic impact estimators and other bibliometric indexes, my software is
-downloaded and probably used much more often than my papers are read. It applies, I believe, to the package “stylo” at the first place.
+Hidden from academic impact estimators and other bibliometric indexes, my software is downloaded and probably used much more often than my papers are read. It applies, I believe, to the package “stylo” at the first place.
 
 Software “Stylometry with R” (or simply “stylo”) is a flexible R package for the highlevel analysis of writing style in stylometry. Stylometry (computational stylistics) is concerned with the quantitative study of writing style, e.g. authorship verification, an application which has considerable potential in forensic contexts, as well as historical research. Because “stylo” provides an attractive graphical user interface for high-level exploratory analyses, it is especially suited for an audience of novices, without programming skills (e.g. from Digital Humanities). More experienced users can benefit from implementation of a series of standard pipelines for text processing, as well as a number of similarity metrics.
 
@@ -31,7 +30,7 @@ The most commonly-known and widely used functionalities of “stylo” include:
 * [Rolling Stylometry]({{ site.baseurl }}/projects/rolling_stylo/)
 
 
-**Authors:** Maciej Eder<sup>*</sup>, Mike Kestemont, Jan Rybicki, Steffen Pielstrom
+**Authors:** Maciej Eder<sup>*</sup>, Mike Kestemont, Jan Rybicki, Steffen Pielström
 
 **License:** [GPL-3](https://opensource.org/licenses/GPL-3.0)
 
