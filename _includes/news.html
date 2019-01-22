@@ -1,8 +1,18 @@
+
+
 <div class="news">
+  {% if page.lang == "en" %}
   <h2>news</h2>
-  {% if site.news  %}
+  {% endif %}
+  {% if page.lang == "pl" %}
+  <h2>nowości</h2>
+  {% endif %}
+  
+
+  {% if site.news %}
+  {% assign current_language = site.news | where:"lang", page.lang %}
     <table>
-    {% assign news = site.news | reverse %}
+    {% assign news = current_language | reverse %}
     {% for item in news limit: site.news_limit %}
       <tr>
         <td class="date">{{ item.date | date: "%b %-d, %Y" }}</td>

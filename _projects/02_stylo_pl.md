@@ -22,7 +22,7 @@ Oprogramowanie “Stylometry with R” (czy po prostu “stylo”) to uniwersaln
 
 Do najczęściej wykorzystywanych i najbardziej znanych funkcjonalności pakiety “stylo” należą:
 
-* Hierarchiczna Analiza Skupeń (zob. przykładowy wykres na Rys. 1)
+* Hierarchiczna Analiza Skupień (zob. przykładowy wykres na Rys. 1)
 * Analiza Głównych Składowych
 * Skalowanie Wielowymiarowe
 * [Bootstrap Consensus Networks]({{ site.baseurl }}/pl/projekty/analiza_sieci/)
