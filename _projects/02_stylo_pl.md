@@ -33,7 +33,7 @@ Do najczęściej wykorzystywanych i najbardziej znanych funkcjonalności pakiety
 
 
 
-**Autorzy:** Maciej Eder<sup>*</sup>, Mike Kestemont, Jan Rybicki, Steffen Pielstrom
+**Autorzy:** Maciej Eder<sup>*</sup>, Mike Kestemont, Jan Rybicki, Steffen Pielström
 
 **Licencja:** [GPL-3](https://opensource.org/licenses/GPL-3.0)
 
