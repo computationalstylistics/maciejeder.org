@@ -15,7 +15,12 @@
     {% assign news = current_language | reverse %}
     {% for item in news limit: site.news_limit %}
       <tr>
+        {% if page.lang == "en" %}
         <td class="date">{{ item.date | date: "%b %-d, %Y" }}</td>
+        {% endif %}
+        {% if page.lang == "pl" %}
+        <td class="date">{{ item.date | date: "%Y.%m.%-d" }}</td>
+        {% endif %}
         <td class="announcement">
           {% if item.inline %}
             {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
