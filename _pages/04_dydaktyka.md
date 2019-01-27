@@ -19,7 +19,7 @@ Pomijając regularne kursy uniwersyteckie oraz seminarium dla doktorantów – k
 
 ## Dokumentacja programu ‘stylo’
 
-Prędzej czy później na stronie niniejszej powinna się znaleźć dokumentacja dostępnych funkcji programu ‘stylo’, bo jest to najczęściej przeze mnie wykorzystywane narzędzie. Zainteresowany czytelnik będzie łaskaw spojrzeć na [angielską wersję niniejszej strony]({{ site.baseurl }}/teaching/), gdzie zamieszczam garść przydatnych dokumentów i linków.
+Prędzej czy później na stronie niniejszej powinna się znaleźć dokumentacja dostępnych funkcji programu ‘stylo’, bo jest to najczęściej przeze mnie wykorzystywane narzędzie w kursach a analizy tekstu. Zainteresowany czytelnik będzie łaskaw spojrzeć na [angielską wersję niniejszej strony]({{ site.baseurl }}/teaching/), gdzie zamieszczam garść przydatnych dokumentów i linków.
 
 
 
