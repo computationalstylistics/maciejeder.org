@@ -27,7 +27,7 @@ Apart from my regular university courses – which are not covered on this page 
 ## Blog posts on non-obvious functions of `stylo`:
 
 * [Authorship verification with the package 'stylo'](https://computationalstylistics.github.io/blog/imposters)
-* [Cross-validation using the function `classify()`](https://computationalstylistics.github.io/blog/cross_validation)
+* [Cross-validation using the function `classify()`](https://computationalstylistics.github.io/blog/cross-validation)
 * [Custom distance measures](https://computationalstylistics.github.io/blog/custom_distances)
 * [Testing rolling stylometry](https://computationalstylistics.github.io/blog/rolling_stylometry)
 
