@@ -11,7 +11,7 @@ lang: en
 
 
 
-## international refereed journals
+## international peer reviewed journals
 
 **Choiński, M., Eder, M. and Rybicki, J.** (forthcoming). Harper Lee and other people: a stylometric diagnosis. _Mississippi Quarterly_, forthcoming.
 
@@ -55,7 +55,7 @@ lang: en
 
 
 
-## national refereed journals
+## national peer reviewed journals
 
 
 **Eder, M.** (2017). Zagadkowe „źwierzę o jednym oku”, czyli o fraszce III 78 Kochanowskiego. _Prace Filologiczne. Literaturoznawstwo_, **7**(10): 17–31.
@@ -65,7 +65,7 @@ lang: en
 **Pawłowski, A. and Eder, M.** (2015). Struktury sekwencyjne w „Kronice Dalimila”: analiza stylometryczna. **Rocznik Slawistyczny**, **64**: 147–70.
 
 **Eder, M., Klapper, M. and Kołodziej, D.** (2015). Dawna polszczyzna i nowe technologie: testowanie metod przetwarzania języka naturalnego na materiale polskiego piśmiennictwa od średniowiecza po wiek XX. _Biuletyn Polskiego Towarzystwa Językoznawczego_, **71**: 189–202.
-  
+
 **Eder, M.** (2014). Metody ścisłe w literaturoznawstwie i pułapki pozornego obiektywizmu - przykład stylometrii. _Teksty Drugie_, **2**: 90-105.
 
 **Eder, M.** (2002). Traktat Nowacjana „O widowiskach” – kilka uwag o tekście i autorze. _Meander_, **57**(1): 59–68.
