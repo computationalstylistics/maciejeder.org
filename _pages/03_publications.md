@@ -13,7 +13,7 @@ lang: en
 
 ## international peer reviewed journals
 
-**Choiński, M., Eder, M. and Rybicki, J.** (forthcoming). Harper Lee and other people: a stylometric diagnosis. _Mississippi Quarterly_, forthcoming.
+**Choiński, M., Eder, M. and Rybicki, J.** (2019). Harper Lee and other people: a stylometric diagnosis. _Mississippi Quarterly_, **70/71**(3), forthcoming.
 
 **Woźniak, M., Wołos, A., Modrzyk, U., Górski, R. L., Winkowski, J., Bajczyk, M., Szymkuć, S., Grzybowski, B. and Eder, M.** (2018). [Linguistic measures of chemical diversity and the ‘keywords’ of molecular collections](http://www.nature.com/articles/s41598-018-25440-6). _Scientific Reports_, **8**(1), 7598.
 
@@ -57,6 +57,9 @@ lang: en
 
 ## national peer reviewed journals
 
+**Eder, M. and Górski, R. L.** (2019). Typologia tekstów oparta na miarach kwantytatywnych: studium korpusowe o zróżnicowaniu polszczyzny. _Język Polski_, forthcoming.
+
+**Król, M., Derwojedowa, M., Górski, R. L., Gruszczyński, W., Opaliński, K., Potoniec, P., Woliński, M., Kieraś, W. and Eder, M.** (2019). Narodowy Korpus Diachroniczny Polszczyzny. Projekt. _Język Polski_, **99**: 92–101.
 
 **Eder, M.** (2017). Zagadkowe „źwierzę o jednym oku”, czyli o fraszce III 78 Kochanowskiego. _Prace Filologiczne. Literaturoznawstwo_, **7**(10): 17–31.
 
@@ -86,9 +89,12 @@ lang: en
 
 ## books
 
+
+**Górski, R. L., Król, M. and Eder, M.** (2019). _Zmiana w języku. Studia kwantytatywno-korpusowe_. Kraków: IJP PAN.
+
 _Rozmowy Salomona z Marchołtem_ (2014). Ed. and transl. by M. Eder. Wrocław: Atut.
 
-**Deptuchowa, E., Eder, M., Frodyma, M., Klapper, M., Kołodziej, D., Kozłowska, M., Leńczuk, M., et al.** (2014). _Suplement Do Słownika staropolskiego_, Cz. I: _Verba absentia_. Kraków: Lexis.
+**Deptuchowa, E., Eder, M., Frodyma, M., Klapper, M., Kołodziej, D., Kozłowska, M., Leńczuk, M., et al.** (2014). _Suplement do Słownika staropolskiego_, Cz. I: _Verba absentia_. Kraków: Lexis.
 
 **Wolan, A.** (2010). _De libertate politica sive civili / O wolności rzeczypospolitej albo ślacheckiej (tłumaczenie Stanisława Dubingowicza)_. Ed. by M. Eder and R Mazurkiewicz. Warszawa: Neriton.
 
@@ -100,7 +106,7 @@ _Rozmowy Salomona z Marchołtem_ (2014). Ed. and transl. by M. Eder. Wrocław: A
 
 **Eder, M. and Twardzik, W.** (2007). _Indeksy do Słownika staropolskiego: alfabetyczny, a tergo, verba absentia, verba expurgata_. Kraków: Lexis.
 
-**Eder, M.** (2003). _Bibliografia Zawartości „Literatury Ludowej” Za Lata 1981–2002_. Wrocław: Polskie Towarzystwo Ludoznawcze.
+**Eder, M.** (2003). _Bibliografia zawartości „Literatury Ludowej” za lata 1981–2002_. Wrocław: Polskie Towarzystwo Ludoznawcze.
 
 
 
@@ -117,7 +123,7 @@ _Rozmowy Salomona z Marchołtem_ (2014). Ed. and transl. by M. Eder. Wrocław: A
 ## chapters in collective volumes
 
 
-**Eder, M., Rybicki, J. and Kestemont, M.** (forthcoming). Measuring style. In: J. O'Sullivan (ed.), _Text Technologies: Computation for Literary Analysis_. Pennsylvania State University Press, forthcoming.
+**Eder, M., Rybicki, J. and Kestemont, M.** (2019). Measuring style. In: J. O'Sullivan (ed.), _Digital Humanities for Literary Studies: Methods, Tools & Practices_. TAMU University Press, forthcoming.
 
 **Eder, M.** (2018). Elena Ferrante: a virtual author. In Tuzzi, A. and Cortelazzo, M. A. (eds), _Drawing Elena Ferrante’s Profile_. Padova: Padova University Press, pp. 31–45, [http://www.padovauniversitypress.it/publications/9788869381300](http://www.padovauniversitypress.it/publications/9788869381300).
 
@@ -158,6 +164,11 @@ _Rozmowy Salomona z Marchołtem_ (2014). Ed. and transl. by M. Eder. Wrocław: A
 
 
 ## other publications
+
+**Eder, M. and Byszuk, J.** (2019). Feature selection in authorship attribution: ordering the wordlist. _Digital Humanities 2019: Book of Abstracts_. Utrecht [https://dev.clariah.nl/files/dh2019/boa/0930.html](https://dev.clariah.nl/files/dh2019/boa/0930.html).
+
+**Ochab, J. K., Byszuk, J., Pielström, S. and Eder, M.** (2019). Identifying similarities in text analysis: hierarchical clustering (linkage) versus network clustering (community detection). _Digital Humanities 2019: Book of Abstracts_. Utrecht [https://dev.clariah.nl/files/dh2019/boa/0981.html](https://dev.clariah.nl/files/dh2019/boa/0981.html).
+
 
 **Eder, M.** (2018). Words that have made history, or modeling the dynamics of linguistic changes. _Digital Humanities 2018: Book of Abstracts_. Mexico City, pp. 362–65, [https://dh2018.adho.org/en/abstracts](https://dh2018.adho.org/en/abstracts).
 

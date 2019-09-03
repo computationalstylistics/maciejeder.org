@@ -9,9 +9,18 @@ lang: pl
 
 
 
+
+
+
+
+
+
+
+
+
 ## czasopisma o zasięgu międzynarodowym
 
-**Choiński, M., Eder, M. and Rybicki, J.** (forthcoming). Harper Lee and other people: a stylometric diagnosis. _Mississippi Quarterly_, forthcoming.
+**Choiński, M., Eder, M. and Rybicki, J.** (2019). Harper Lee and other people: a stylometric diagnosis. _Mississippi Quarterly_, **70/71**(3), w druku.
 
 **Woźniak, M., Wołos, A., Modrzyk, U., Górski, R. L., Winkowski, J., Bajczyk, M., Szymkuć, S., Grzybowski, B. and Eder, M.** (2018). [Linguistic measures of chemical diversity and the ‘keywords’ of molecular collections](http://www.nature.com/articles/s41598-018-25440-6). _Scientific Reports_, **8**(1), 7598.
 
@@ -56,6 +65,10 @@ lang: pl
 ## czasopisma o zasięgu krajowym
 
 
+**Eder, M. and Górski, R. L.** (2019). Typologia tekstów oparta na miarach kwantytatywnych: studium korpusowe o zróżnicowaniu polszczyzny. _Język Polski_, w druku.
+
+**Król, M., Derwojedowa, M., Górski, R. L., Gruszczyński, W., Opaliński, K., Potoniec, P., Woliński, M., Kieraś, W. and Eder, M.** (2019). Narodowy Korpus Diachroniczny Polszczyzny. Projekt. _Język Polski_, **99**: 92–101.
+
 **Eder, M.** (2017). Zagadkowe „źwierzę o jednym oku”, czyli o fraszce III 78 Kochanowskiego. _Prace Filologiczne. Literaturoznawstwo_, **7**(10): 17–31.
 
 **Eder, M.** (2016). Słowa znaczące, słowa kluczowe, słowozbiory – o statystycznych metodach wyszukiwania wyrazów istotnych. _Przegląd Humanistyczny_, **60**(3): 31–44.
@@ -83,6 +96,8 @@ lang: pl
 
 
 ## książki
+
+**Górski, R. L., Król, M. and Eder, M.** (2019). _Zmiana w języku. Studia kwantytatywno-korpusowe_. Kraków: IJP PAN.
 
 _Rozmowy Salomona z Marchołtem_ (2014). Ed. and transl. by M. Eder. Wrocław: Atut.
 
@@ -115,7 +130,7 @@ _Rozmowy Salomona z Marchołtem_ (2014). Ed. and transl. by M. Eder. Wrocław: A
 ## rozdziały w tomach zbiorowych
 
 
-**Eder, M., Rybicki, J. and Kestemont, M.** (forthcoming). Measuring style. In: J. O'Sullivan (ed.), _Text Technologies: Computation for Literary Analysis_. Pennsylvania State University Press, forthcoming.
+**Eder, M., Rybicki, J. and Kestemont, M.** (2019). Measuring style. In O’Sullivan, J. (ed), _Digital Humanities for Literary Studies: Methods, Tools & Practices_. TAMU University Press, w druku.
 
 **Eder, M.** (2018). Elena Ferrante: a virtual author. In Tuzzi, A. and Cortelazzo, M. A. (eds), _Drawing Elena Ferrante’s Profile_. Padova: Padova University Press, pp. 31–45, [http://www.padovauniversitypress.it/publications/9788869381300](http://www.padovauniversitypress.it/publications/9788869381300).
 
@@ -156,6 +171,10 @@ _Rozmowy Salomona z Marchołtem_ (2014). Ed. and transl. by M. Eder. Wrocław: A
 
 
 ## inne publikacje
+
+**Eder, M. and Byszuk, J.** (2019). Feature selection in authorship attribution: ordering the wordlist. _Digital Humanities 2019: Book of Abstracts_. Utrecht [https://dev.clariah.nl/files/dh2019/boa/0930.html](https://dev.clariah.nl/files/dh2019/boa/0930.html).
+
+**Ochab, J. K., Byszuk, J., Pielström, S. and Eder, M.** (2019). Identifying similarities in text analysis: hierarchical clustering (linkage) versus network clustering (community detection). _Digital Humanities 2019: Book of Abstracts_. Utrecht [https://dev.clariah.nl/files/dh2019/boa/0981.html](https://dev.clariah.nl/files/dh2019/boa/0981.html).
 
 **Eder, M.** (2018). Words that have made history, or modeling the dynamics of linguistic changes. _Digital Humanities 2018: Book of Abstracts_. Mexico City, pp. 362–65, [https://dh2018.adho.org/en/abstracts](https://dh2018.adho.org/en/abstracts).
 
