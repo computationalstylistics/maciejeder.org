@@ -65,7 +65,7 @@ lang: en
 
 **Eder, M.** (2016). Słowa znaczące, słowa kluczowe, słowozbiory – o statystycznych metodach wyszukiwania wyrazów istotnych. _Przegląd Humanistyczny_, **60**(3): 31–44.
 
-**Pawłowski, A. and Eder, M.** (2015). Struktury sekwencyjne w „Kronice Dalimila”: analiza stylometryczna. **Rocznik Slawistyczny**, **64**: 147–70.
+**Pawłowski, A. and Eder, M.** (2015). Struktury sekwencyjne w „Kronice Dalimila”: analiza stylometryczna. _Rocznik Slawistyczny_, **64**: 147–70.
 
 **Eder, M., Klapper, M. and Kołodziej, D.** (2015). Dawna polszczyzna i nowe technologie: testowanie metod przetwarzania języka naturalnego na materiale polskiego piśmiennictwa od średniowiecza po wiek XX. _Biuletyn Polskiego Towarzystwa Językoznawczego_, **71**: 189–202.
 
@@ -123,7 +123,7 @@ _Rozmowy Salomona z Marchołtem_ (2014). Ed. and transl. by M. Eder. Wrocław: A
 ## chapters in collective volumes
 
 
-**Eder, M., Rybicki, J. and Kestemont, M.** (2019). Measuring style. In: J. O'Sullivan (ed.), _Digital Humanities for Literary Studies: Methods, Tools & Practices_. TAMU University Press, forthcoming.
+**Eder, M., Rybicki, J. and Kestemont, M.** (2019). Measuring style. In: J. O'Sullivan (ed.), _Digital Humanities for Literary Studies: Methods, Tools & Practices_. TAMU Press, forthcoming.
 
 **Eder, M.** (2018). Elena Ferrante: a virtual author. In Tuzzi, A. and Cortelazzo, M. A. (eds), _Drawing Elena Ferrante’s Profile_. Padova: Padova University Press, pp. 31–45, [http://www.padovauniversitypress.it/publications/9788869381300](http://www.padovauniversitypress.it/publications/9788869381300).
 
