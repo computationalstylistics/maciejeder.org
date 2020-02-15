@@ -39,7 +39,8 @@ Wersja elektroniczna znajduje się [tutaj](https://github.com/computationalstyli
 
 Komplet ilustracji (oryginalne pliki) znajduje się [tutaj](https://github.com/computationalstylistics/diachronia/tree/master/ilustracje); poniżej zamieszczamy kilka wybranych przykładów.
 
-![](https://github.com/computationalstylistics/diachronia/raw/master/ilustracje/fig_2-1-1.png)
+
+<img src="https://github.com/computationalstylistics/diachronia/raw/master/ilustracje/fig_2-1-1.png" width="500">
 
 Rys. 2.1. Chronologiczny rozkład tekstów w korpusie diachronicznym 1380–1850: liczba wyrazów przypadająca na poszczególne lata.
 
@@ -74,4 +75,3 @@ Rys. 4.14. Siła dyskryminacyjna wyrazów _’s_ oraz _of_ w korpusie języka am
 ![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_5-2-1.png)
 
 Rys. 5.2. Liczba wyrazów zanotowanych do danego roku (linia niebieska) i po raz ostatni w danym roku (linia zielona) w latach 1380–1939.
-
