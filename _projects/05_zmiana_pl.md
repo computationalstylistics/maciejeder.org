@@ -40,38 +40,38 @@ Wersja elektroniczna znajduje się [tutaj](https://github.com/computationalstyli
 Komplet ilustracji (oryginalne pliki) znajduje się [tutaj](https://github.com/computationalstylistics/diachronia/tree/master/ilustracje); poniżej zamieszczamy kilka wybranych przykładów.
 
 
-<img src="https://github.com/computationalstylistics/diachronia/raw/master/ilustracje/fig_2-1-1.png" width="500">
+<img src="https://github.com/computationalstylistics/diachronia/raw/master/ilustracje/fig_2-1-1.png" width="700">
 
 Rys. 2.1. Chronologiczny rozkład tekstów w korpusie diachronicznym 1380–1850: liczba wyrazów przypadająca na poszczególne lata.
 
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_3-1-1.png)
+ <img src="https://github.com/computationalstylistics/diachronia/raw/master/ilustracje/fig_3-1-1.png" width="700">
 
 Rys. 3.1. Przebieg zmiany _więtszy_ > _większy_ (z uwzględnieniem form fleksyjnych). Punkty ukazują proporcję między formą recesywną i innowacyjną (dane empiryczne), linia ciągła przedstawia model logistyczny.
 
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_3-3-1.png)
+ <img src="https://github.com/computationalstylistics/diachronia/raw/master/ilustracje/fig_3-3-1.png" width="700">
 
 Rys. 3.3. Przebieg zmiany _barzo_ > _bardzo_ obliczony osobno dla stopnia równego i (naj)wyższego.
 
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_4-1-1.png)
+ <img src="https://github.com/computationalstylistics/diachronia/raw/master/ilustracje/fig_4-1-1.png" width="700">
 
 Rys. 4.1. Skalowanie wielowymiarowe 76 powieści polskich (250 najczęstszych słów). Obie osie wykresu odpowiadają odległości w przeskalowanej przestrzeni MDS.
 
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_4-6-1.png)
+ <img src="https://github.com/computationalstylistics/diachronia/raw/master/ilustracje/fig_4-6-1.png" width="700">
 
 Rys. 4.6. Sieć podobieństw 333 tekstów angielskich.
 
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_4-7-1.png)
+ <img src="https://github.com/computationalstylistics/diachronia/raw/master/ilustracje/fig_4-7-1.png" width="700">
 
 Rys. 4.7. Skuteczność klasyfikacji do grupy _ante_ i _post_ dla danego roku na podstawie trigramów kategorii gramatycznych.
 
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_4-11-1.png)
+ <img src="https://github.com/computationalstylistics/diachronia/raw/master/ilustracje/fig_4-11-1.png" width="700">
 
 Rys. 4.11. Przyspieszenia zmian leksykalnych w historii angielszczyzny amerykańskiej w latach 1835–1985, na podstawie Corpus of Historical American English. Punkt na wykresie oznacza uśrednioną skuteczność atrybucji, kreseczki przecinające punkt oznaczają 1 standardowe odchylenie w górę i w dół dla danego punktu.
 
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_4-14-1.png)
+ <img src="https://github.com/computationalstylistics/diachronia/raw/master/ilustracje/fig_4-14-1.png" width="700">
 
 Rys. 4.14. Siła dyskryminacyjna wyrazów _’s_ oraz _of_ w korpusie języka amerykańskiego COHA.
 
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_5-2-1.png)
+ <img src="https://github.com/computationalstylistics/diachronia/raw/master/ilustracje/fig_5-2-1.png" width="700">
 
 Rys. 5.2. Liczba wyrazów zanotowanych do danego roku (linia niebieska) i po raz ostatni w danym roku (linia zielona) w latach 1380–1939.
