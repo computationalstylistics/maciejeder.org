@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Linguage Change
+title: Language Change
 description: This monograph by R. L. Górski, M. Król and M. Eder discusses applicability of quantitative methods in historical linguistics, with special attention paid to the analysis of language changes in Polish between the 15th and 19th centuries.
 thumbnail: coha_thumbnail.png
 img: zmiana_cover.png
