@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Zmiana w języku
-description: Niewiekla monografia poświęcona kwantytatywnej analizie zmian zaszłych w polszczyźnie XVI–XIX wieku.
+description: Niewiekla monografia autorstwa R. L. Górskiego, M. Król i M. Edera poświęcona zastosowaniom metod kwantytatywnych w językoznawstwie historycznym, na przykładzie analizy zmian w polszczyźnie XVI–XIX wieku.
 thumbnail: coha_thumbnail.png
 img: zmiana_cover.png
 permalink: /projects/zmiana-w-jezyku/
