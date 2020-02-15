@@ -39,7 +39,7 @@ Wersja elektroniczna znajduje się [tutaj](https://github.com/computationalstyli
 
 Komplet ilustracji (oryginalne pliki) znajduje się [tutaj](https://github.com/computationalstylistics/diachronia/tree/master/ilustracje); poniżej zamieszczamy kilka wybranych przykładów.
 
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_2-1-1.png)
+<img src="https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_2-1-1.png">
 
 Rys. 2.1. Chronologiczny rozkład tekstów w korpusie diachronicznym 1380–1850: liczba wyrazów przypadająca na poszczególne lata.
 
