@@ -171,7 +171,6 @@ _Rozmowy Salomona z Marchołtem_ (2014). Ed. and transl. by M. Eder. Wrocław: A
 
 **Ochab, J. K., Byszuk, J., Pielström, S. and Eder, M.** (2019). Identifying similarities in text analysis: hierarchical clustering (linkage) versus network clustering (community detection). _Digital Humanities 2019: Book of Abstracts_. Utrecht [https://dev.clariah.nl/files/dh2019/boa/0981.html](https://dev.clariah.nl/files/dh2019/boa/0981.html).
 
-
 **Eder, M.** (2018). Words that have made history, or modeling the dynamics of linguistic changes. _Digital Humanities 2018: Book of Abstracts_. Mexico City, pp. 362–65, [https://dh2018.adho.org/en/abstracts](https://dh2018.adho.org/en/abstracts).
 
 **Eder, M., Winkowski, J., Woźniak, M., Górski, R. L., and Grzybowski, B.** (2018). Text mining methods to solve organic chemistry problems, or topic modeling applied to chemical molecules. _Digital Humanities 2018: Book of Abstracts_. Mexico City, pp. 562–65, [https://dh2018.adho.org/en/abstracts/](https://dh2018.adho.org/en/abstracts/).
