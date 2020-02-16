@@ -2,7 +2,7 @@
 layout: page
 title: projekty
 permalink: /pl/projekty/
-description: Wybrane projekty, którymi się zajmowałem niedawno, lub które z różnych powodów uważam za istotne.
+description: Wybrane projekty, którymi się zajmowałem niedawno lub które z różnych powodów uważam za istotne.
 ref: projects
 lang: pl
 ---

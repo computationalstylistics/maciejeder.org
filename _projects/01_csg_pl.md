@@ -20,7 +20,7 @@ Przedsięwzięcia grupy badawczej [Computational Stylistics Group](https://compu
 
 * Studium na temat [autorstwa _Kroniki polskiej_ Galla Anonima](https://computationalstylistics.github.io/projects/gallus-anonymous/), w którym staram się poddać weryfikacji “wenecką” hipotezę o pochodzeniu Galla, sformułowaną przez Tomasza Jasińskiego. Okazuje się, że rzeczywiście ujawniają się uderzające podobieństwa stylometryczne między twórczością autora _Kroniki_ oraz Mnicha z Lido: z wielkim prawdopodobieństwem można twierdzić, że jest to jedna i ta sama osoba (Eder 2015b, 2017a).
 
-* [Przebiegi zmian gramatycznych i leksykalnych w historii języka polskiego](https://computationalstylistics.github.io/projects/chronology/) to trzyletni projekt finansowany przez Narodowe Centrum Nauki (OPUS 2013/11/B/HS2/02795), którego celem jest prześledzenie zmian leksykalnych, ale przede wszystkim zmian gramatycznych, jakie dokonały się w języku polskim na przestrzeni wieków XVI-XIX. 
+* [Przebiegi zmian gramatycznych i leksykalnych w historii języka polskiego](https://computationalstylistics.github.io/projects/chronology/) to trzyletni projekt finansowany przez Narodowe Centrum Nauki (OPUS 2013/11/B/HS2/02795), którego celem jest prześledzenie zmian leksykalnych, ale przede wszystkim zmian gramatycznych, jakie dokonały się w języku polskim na przestrzeni wieków XVI-XIX. Jednym z istotniejszych efektów tego projektu jest monografia _Zmiana w języku. Studia kwantytatywno-korpusowe_ (więcej na temat tej rozprawy [tutaj](http://maciejeder.org/projects/zmiana-w-jezyku/)).
 
 * Artykuł o [Elenie Ferrante jako wirtualnym autorze](https://computationalstylistics.github.io/projects/elena-ferrante/), w którym chodziło o potwierdzenie niedawnych rewelacji o tym, że autorem ukrywającym się za słynnym literackim pseudonimem jest w rzeczywistości Domenico Starnone, uznany pisarz z Neapolu (Eder 2018). Szybko się jednak okazało, że warto postawić bardziej ambitne pytanie, mianowicie o to, czy (zdolny) pisarz jest w stanie wypracować dwa odrębne style. Czy da się wykazać, że Domenico Starnone jest w stanie w powieściach podpisanych własnym nazwiskiem pisać stylem Starnonego, a w innych wcielić się w wirtualną “Ferrante”?
 
@@ -33,7 +33,7 @@ Przedsięwzięcia grupy badawczej [Computational Stylistics Group](https://compu
 
 ## Cytowane prace
 
-**Choiński, M., Eder, M. and Rybicki, J.** (2019). Harper Lee and other people: a stylometric diagnosis. _Mississippi Quarterly_, **70**(3), forthcoming.
+**Choiński, M., Eder, M. and Rybicki, J.** (2019). [Harper Lee and other people: a stylometric diagnosis](https://www.questia.com/library/journal/1G1-606942042/harper-lee-and-other-people-a-stylometric-diagnosis). _Mississippi Quarterly_, **70/71**(3): 355–374.
 
 **Eder, M.** (2013). [Mind your corpus: systematic errors in authorship attribution](http://llc.oxfordjournals.org/content/28/4/603). _Literary and Linguistic Computing_, **28**(4): 603–614, [[pre-print](https://github.com/computationalstylistics/preprints/blob/master/m-eder_systematic_errors.pdf)].
 
