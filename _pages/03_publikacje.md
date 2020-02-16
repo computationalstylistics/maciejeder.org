@@ -101,21 +101,21 @@ lang: pl
 
 **Górski, R. L., Król, M. i Eder, M.** (2019). [_Zmiana w języku. Studia kwantytatywno-korpusowe_](http://maciejeder.org/projects/zmiana-w-jezyku/). Kraków: IJP PAN.
 
-_Rozmowy Salomona z Marchołtem_ (2014). Ed. and transl. Przełożył i opracował M. Eder. Wrocław: Atut.
+[_Rozmowy Salomona z Marchołtem_](http://maciejeder.org/pl/projekty/marcholt/) (2014). Przełożył i opracował M. Eder. Wrocław: Atut.
 
-**Deptuchowa, E., Eder, M., Frodyma, M., Klapper, M., Kołodziej, D., Kozłowska, M., Leńczuk, M., et al.** (2014). _Suplement Do Słownika staropolskiego_, Cz. I: _Verba absentia_. Kraków: Lexis.
+**Deptuchowa, E., Eder, M., Frodyma, M., Klapper, M., Kołodziej, D., Kozłowska, M., Leńczuk, M., i in.** (2014). _Suplement do Słownika staropolskiego_, Cz. I: _Verba absentia_. Kraków: Lexis.
 
-**Wolan, A.** (2010). _De libertate politica sive civili / O wolności rzeczypospolitej albo ślacheckiej (tłumaczenie Stanisława Dubingowicza)_. Wyd. M. Eder i R Mazurkiewicz. Warszawa: Neriton.
+**Wolan, A.** (2010). [_De libertate politica sive civili / O wolności rzeczypospolitej albo ślacheckiej (tłumaczenie Stanisława Dubingowicza)_](http://maciejeder.org/pl/projekty/wolan/). Wyd. M. Eder i R Mazurkiewicz. Warszawa: Neriton.
 
 **Eder, M.** (2008). _Polonika ze zbiorów Zamku Skokloster: katalog_. Warszawa: Neriton.
 
-**Eder, M.** (2008). _U źródeł aforystyki polskiej. Studium o „Przysłowiach” Andrzeja Maksymiliana Fredry_. Wrocław: Atut.
+**Eder, M.** (2008). [_U źródeł aforystyki polskiej. Studium o „Przysłowiach” Andrzeja Maksymiliana Fredry_](http://maciejeder.org/pl/projekty/fredro/). Wrocław: Atut.
 
 **Eder, M.** (2008). _“The Polonica Collection” from Skokloster Castle_. Stockholm: Stockholm universitet.
 
 **Eder, M. i Twardzik, W.** (2007). _Indeksy do Słownika staropolskiego: alfabetyczny, a tergo, verba absentia, verba expurgata_. Kraków: Lexis.
 
-**Eder, M.** (2003). _Bibliografia Zawartości „Literatury Ludowej” Za Lata 1981–2002_. Wrocław: Polskie Towarzystwo Ludoznawcze.
+**Eder, M.** (2003). _Bibliografia zawartości „Literatury Ludowej” za lata 1981–2002_. Wrocław: Polskie Towarzystwo Ludoznawcze.
 
 
 
@@ -136,7 +136,7 @@ _Rozmowy Salomona z Marchołtem_ (2014). Ed. and transl. Przełożył i opracowa
 
 **Eder, M.** (2018). Elena Ferrante: a virtual author. In Tuzzi, A. and Cortelazzo, M. A. (eds), _Drawing Elena Ferrante’s Profile_. Padova: Padova University Press, pp. 31–45, [http://www.padovauniversitypress.it/publications/9788869381300](http://www.padovauniversitypress.it/publications/9788869381300).
 
-**Eder, M.** (2017). Autorstwo „Kroniki” Anonima zwanego Gallem w świetle badań stylometrycznych: rekonesans. In Dąbrówka, A., Skibiński, E. and Wojtowicz, W. (eds), _Nobis Operique Favete. Studia nad Gallem Anonimem_. Warszawa: IBL PAN, pp. 59–74.
+**Eder, M.** (2017). Autorstwo „Kroniki” Anonima zwanego Gallem w świetle badań stylometrycznych: rekonesans. In Dąbrówka, A., Skibiński, E. and Wojtowicz, W. (eds), _Nobis operique favete. Studia nad Gallem Anonimem_. Warszawa: IBL PAN, pp. 59–74.
 
 **Rybicki, J., Eder, M. i Hoover, D.** (2016). Computational stylistics and text analysis. In: C. Crompton, R. L. Lane and R. Siemens (eds.), _Doing Digital Humanities_, London and New York: Routledge, pp. 123-144.
 
@@ -144,7 +144,7 @@ _Rozmowy Salomona z Marchołtem_ (2014). Ed. and transl. Przełożył i opracowa
 
 **Pawłowski, A. i Eder, M.** (2015). Sequential structures in Dalimil's Chronicle: quantitative analysis of style variation. In: J. Mačutek and G. Mikros (eds.), _Sequences in Language and Text_. Walter de Gruyter, pp. 147-70.
 
-**Eder, M.** (2013). [Computational stylistics and Biblical translation: how reliable can a dendrogram be?](http://www.wsf.edu.pl/upload_module/wysiwyg/Wydawnictwo%20WSF/The%20Translator%20and%20the%20Computer_Piotrowski_Grabowski.pdf) In: T. Piotrowski and Ł. Grabowski (eds.) _The translator and the computer_. Wrocław: WSF Press, pp. 155–170, [[pre-print](https://github.com/computationalstylistics/preprints/blob/master/Eder_Reliability_issues_11122012.pdf)].
+**Eder, M.** (2013). [Computational stylistics and Biblical translation: how reliable can a dendrogram be?](http://www.wsf.edu.pl/upload_module/wysiwyg/Wydawnictwo%20WSF/The%20Translator%20and%20the%20Computer_Piotrowski_Grabowski.pdf) In: T. Piotrowski and Ł. Grabowski (eds.) _The Translator and the Computer_. Wrocław: WSF Press, pp. 155–170, [[pre-print](https://github.com/computationalstylistics/preprints/blob/master/Eder_Reliability_issues_11122012.pdf)].
 
 **Eder, M.** (2011). Znajomość w literaturze staropolskiej traktatów antycznych fundamentalnych dla humanizmu: wspólnota czytelników. In Cieński, M. (ed), _Humanizm polski i wspólnoty. Naród – społeczeństwo – państwo – Europa_. Warszawa: Neriton, pp. 151–82.
 

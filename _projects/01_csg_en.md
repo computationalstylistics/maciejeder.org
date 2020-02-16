@@ -41,7 +41,7 @@ is a study on stylometric evidence in two novels by Lee: the Pulitzer Prize winn
 
 **Eder, M.** (2015b). In search of the author of “Chronica Polonorum” ascribed to Gallus Anonymous: A stylometric reconnaissance. _Acta Poloniae Historica_, **112**: 5–23, [[pre-print](https://github.com/computationalstylistics/preprints/blob/master/Eder_Author_of_Chronica_Polonorum.pdf)].
 
-**Eder, M.** (2017a). Autorstwo „Kroniki” Anonima zwanego Gallem w świetle badań stylometrycznych: rekonesans. In Dąbrówka, A., Skibiński, E. and Wojtowicz, W. (eds), _Nobis Operique Favete. Studia nad Gallem Anonimem_. Warszawa: IBL PAN, pp. 59–74.
+**Eder, M.** (2017a). Autorstwo „Kroniki” Anonima zwanego Gallem w świetle badań stylometrycznych: rekonesans. In Dąbrówka, A., Skibiński, E. and Wojtowicz, W. (eds), _Nobis operique favete. Studia nad Gallem Anonimem_. Warszawa: IBL PAN, pp. 59–74.
 
 **Eder, M.** (2017b). Short samples in authorship attribution: A new approach. _Digital Humanities 2017: Conference Abstracts_. Montreal: McGill University, pp. 221–224, [https://dh2017.adho.org/abstracts/341/341.pdf](https://dh2017.adho.org/abstracts/341/341.pdf).
 

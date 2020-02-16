@@ -63,4 +63,4 @@ INDEKS NAZWISK – 272
 SPIS ILUSTRACJI – 279
 
 
-> **Eder, M.** (2008). _U Źródeł Aforystyki Polskiej. Studium o „Przysłowiach” Andrzeja Maksymiliana Fredry_. Wrocław: Atut.
+> **Eder, M.** (2008). _U źródeł aforystyki polskiej. Studium o „Przysłowiach” Andrzeja Maksymiliana Fredry_. Wrocław: Atut.
