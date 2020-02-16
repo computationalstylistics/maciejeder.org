@@ -15,11 +15,13 @@ Pomijając regularne kursy uniwersyteckie oraz seminarium dla doktorantów – k
 * [GIAT-IQLA Summer School in Quantitative Analysis of Textual Data](http://www.giat.org/?page_id=11&lang=en) w Padwie.
 
 
-
-
 ## Dokumentacja programu ‘stylo’
 
 Prędzej czy później na stronie niniejszej powinna się znaleźć dokumentacja dostępnych funkcji programu ‘stylo’, bo jest to najczęściej przeze mnie wykorzystywane narzędzie w kursach a analizy tekstu. Zainteresowany czytelnik będzie łaskaw spojrzeć na [angielską wersję niniejszej strony]({{ site.baseurl }}/teaching/), gdzie zamieszczam garść przydatnych dokumentów i linków.
 
 
+## Materiały na temat modelowania tematycznego (topic modeling) 
+
+* [Opis wraz z wykonywalnym kodem](https://github.com/computationalstylistics/topic-modeling-workshop)
+* [Wprowadzenie teoretyczne](https://computationalstylistics.github.io/presentations/topic_modeling_intro/intro_to_topic_models.html)  
 

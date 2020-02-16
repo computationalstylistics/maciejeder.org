@@ -32,3 +32,8 @@ Apart from my regular university courses – which are not covered on this page 
 * [Testing rolling stylometry](https://computationalstylistics.github.io/blog/rolling_stylometry)
 
 
+## Workshop on topic modeling
+
+* [Introduction, including executable code](https://github.com/computationalstylistics/topic-modeling-workshop)
+* [Lecture slides](https://computationalstylistics.github.io/presentations/topic_modeling_intro/intro_to_topic_models.html)  
+
