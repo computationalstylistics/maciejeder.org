@@ -20,7 +20,9 @@ lang: pl
 
 ## czasopisma o zasięgu międzynarodowym
 
-**Choiński, M., Eder, M. i Rybicki, J.** (2019). Harper Lee and other people: a stylometric diagnosis. _Mississippi Quarterly_, **70/71**(3), w druku.
+**Sbalchiero, S. i Eder, M.** (2020). Topic modeling, long texts and the best number of topics: some problems and solutions. _Quality & Quantity_, w druku.
+
+**Choiński, M., Eder, M. i Rybicki, J.** (2019). [Harper Lee and other people: a stylometric diagnosis](https://www.questia.com/library/journal/1G1-606942042/harper-lee-and-other-people-a-stylometric-diagnosis). _Mississippi Quarterly_, **70/71**(3): 355–374.
 
 **Woźniak, M., Wołos, A., Modrzyk, U., Górski, R. L., Winkowski, J., Bajczyk, M., Szymkuć, S., Grzybowski, B. i Eder, M.** (2018). [Linguistic measures of chemical diversity and the ‘keywords’ of molecular collections](http://www.nature.com/articles/s41598-018-25440-6). _Scientific Reports_, **8**(1), 7598.
 
@@ -65,7 +67,7 @@ lang: pl
 ## czasopisma o zasięgu krajowym
 
 
-**Eder, M. i Górski, R. L.** (2019). Typologia tekstów oparta na miarach kwantytatywnych: studium korpusowe o zróżnicowaniu polszczyzny. _Język Polski_, w druku.
+**Eder, M. i Górski, R. L.** (2019). [Typologia tekstów oparta na miarach kwantytatywnych: studium korpusowe o zróżnicowaniu polszczyzny](https://jezyk-polski.pl/wp-content/uploads/2019/10/JP_vol_99_no3.pdf). _Język Polski_, **99**(3): 5–17.
 
 **Król, M., Derwojedowa, M., Górski, R. L., Gruszczyński, W., Opaliński, K., Potoniec, P., Woliński, M., Kieraś, W. i Eder, M.** (2019). Narodowy Korpus Diachroniczny Polszczyzny. Projekt. _Język Polski_, **99**: 92–101.
 
@@ -97,7 +99,7 @@ lang: pl
 
 ## książki
 
-**Górski, R. L., Król, M. i Eder, M.** (2019). _Zmiana w języku. Studia kwantytatywno-korpusowe_. Kraków: IJP PAN.
+**Górski, R. L., Król, M. i Eder, M.** (2019). [_Zmiana w języku. Studia kwantytatywno-korpusowe_](http://maciejeder.org/projects/zmiana-w-jezyku/). Kraków: IJP PAN.
 
 _Rozmowy Salomona z Marchołtem_ (2014). Ed. and transl. Przełożył i opracował M. Eder. Wrocław: Atut.
 
@@ -130,7 +132,7 @@ _Rozmowy Salomona z Marchołtem_ (2014). Ed. and transl. Przełożył i opracowa
 ## rozdziały w tomach zbiorowych
 
 
-**Eder, M., Rybicki, J. i Kestemont, M.** (2019). Measuring style. In O’Sullivan, J. (ed), _Digital Humanities for Literary Studies: Methods, Tools & Practices_. TAMU University Press, w druku.
+**Eder, M., Rybicki, J. i Kestemont, M.** (2020). Measuring style. In O’Sullivan, J. (ed), _Digital Humanities for Literary Studies: Methods, Tools & Practices_. TAMU University Press, w druku.
 
 **Eder, M.** (2018). Elena Ferrante: a virtual author. In Tuzzi, A. and Cortelazzo, M. A. (eds), _Drawing Elena Ferrante’s Profile_. Padova: Padova University Press, pp. 31–45, [http://www.padovauniversitypress.it/publications/9788869381300](http://www.padovauniversitypress.it/publications/9788869381300).
 
