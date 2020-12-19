@@ -174,6 +174,8 @@ lang: pl
 
 ## inne publikacje
 
+**Byszuk, J., Woźniak, M., Kestemont, M., Leśniak, A., Łukasik, W., Šeļa, A. and Eder, M.** (2020). Detecting direct speech in multilingual collection of 19th century novels. _Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA 2020)_. Marseille, pp. 100–04.
+
 **Eder, M. i Byszuk, J.** (2019). Feature selection in authorship attribution: ordering the wordlist. _Digital Humanities 2019: Book of Abstracts_. Utrecht [https://dev.clariah.nl/files/dh2019/boa/0930.html](https://dev.clariah.nl/files/dh2019/boa/0930.html).
 
 **Ochab, J. K., Byszuk, J., Pielström, S. i Eder, M.** (2019). Identifying similarities in text analysis: hierarchical clustering (linkage) versus network clustering (community detection). _Digital Humanities 2019: Book of Abstracts_. Utrecht [https://dev.clariah.nl/files/dh2019/boa/0981.html](https://dev.clariah.nl/files/dh2019/boa/0981.html).
