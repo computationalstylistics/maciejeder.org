@@ -167,7 +167,8 @@ lang: en
 
 ## other publications
 
-**Byszuk, J., Woźniak, M., Kestemont, M., Leśniak, A., Łukasik, W., Šeļa, A. and Eder, M.** (2020). Detecting direct speech in multilingual collection of 19th century novels. _Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA 2020)_. Marseille, pp. 100–04.
+**Byszuk, J., Woźniak, M., Kestemont, M., Leśniak, A., Łukasik, W., Šeļa, A. and Eder, M.** (2020). [Detecting direct speech in multilingual collection of 19th century novels](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/LT4HALAbook.pdf). _Proceedings of the LREC 2020. Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA 2020)_. Marseille, pp. 100–04.
+
 
 **Eder, M. and Byszuk, J.** (2019). Feature selection in authorship attribution: ordering the wordlist. _Digital Humanities 2019: Book of Abstracts_. Utrecht [https://dev.clariah.nl/files/dh2019/boa/0930.html](https://dev.clariah.nl/files/dh2019/boa/0930.html).
 
