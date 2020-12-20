@@ -25,3 +25,7 @@ Prędzej czy później na stronie niniejszej powinna się znaleźć dokumentacja
 * [Opis wraz z wykonywalnym kodem](https://github.com/computationalstylistics/topic-modeling-workshop)
 * [Wprowadzenie teoretyczne](https://computationalstylistics.github.io/presentations/topic_modeling_intro/intro_to_topic_models.html)  
 
+## Wykład na temat semantyki dystrybucyjnej
+
+* [_Geometria, semantyka i językowy obraz świata_](https://youtu.be/ANcCYqnIJoY)
+
