@@ -28,6 +28,7 @@ The most commonly-known and widely used functionalities of “stylo” include:
 * Support Vector Machines
 * Nearest Shrunken Centroids
 * [Rolling Stylometry]({{ site.baseurl }}/projects/rolling_stylo/)
+* [General Imposters](https://computationalstylistics.github.io/blog/imposters/)
 
 
 **Authors:** Maciej Eder<sup>*</sup>, Mike Kestemont, Jan Rybicki, Steffen Pielström

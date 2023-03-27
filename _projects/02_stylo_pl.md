@@ -30,6 +30,7 @@ Do najczęściej wykorzystywanych i najbardziej znanych funkcjonalności pakiety
 * Maszyny Wektorów Wspierających
 * Najbliższe Skurczone Centroidy
 * [Rolling Stylometry]({{ site.baseurl }}/pl/projekty/rolling_stylo/)
+* [General Imposters](https://computationalstylistics.github.io/blog/imposters/)
 
 
 
