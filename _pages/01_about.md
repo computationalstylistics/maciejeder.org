@@ -8,7 +8,7 @@ lang: en
 
 profile:
   align: right
-  image: m_e_1.jpg
+  image: m_e_4.jpg
 #  address: >
 #    <p>Institute of Polish Language PAS</p>
 #    <p>Mickiewicza 31</p>
