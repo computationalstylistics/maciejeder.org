@@ -6,7 +6,7 @@ thumbnail: CLS_INFRA_thumbnail.jpg
 #img: CLS_INFRA_logo.png
 permalink: /projects/cls_infra/
 ref: cls_infra
-lang: en
+lang: pl
 ---
 
 
