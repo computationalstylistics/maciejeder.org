@@ -4,7 +4,7 @@ title: CLS INFRA
 description: Projekt europejski Computational Literary Studies Infrastructure (CLS INFRA), którego celem jest stworzenie infrastruktury badawczej dla wszystkich zainteresowanych – choć w praktyce głównie uczonych – zajmujących się komputerową analizą dzieł literackich. 
 thumbnail: CLS_INFRA_thumbnail.jpg
 #img: CLS_INFRA_logo.png
-permalink: /projects/cls_infra/
+permalink: /pl/projects/cls_infra/
 ref: cls_infra
 lang: pl
 ---
