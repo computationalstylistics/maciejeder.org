@@ -10,9 +10,12 @@ lang: en
 
 Apart from my regular university courses – which are not covered on this page yet – I enjoy teaching workshops and other extra-curricular courses at different summer schools, conferences, and so forth. These include, at the first place, the following annual (or biannual) events:
 
-* [Digital Humanities Summer Institute](http://www.dhsi.org/index.php) (DHSI) in Victoria BC, Canada.
-* [The European Summer University “Culture & Technology”](http://www.culingtec.uni-leipzig.de/ESU_C_T/node/97) (ESU) in Leipzig, Germany.
-* [GIAT-IQLA Summer School in Quantitative Analysis of Textual Data](http://www.giat.org/?page_id=11&lang=en) in Padova, Italy.
+* [Digital Humanities Summer Institute](https://www.dhsi.org/) (DHSI) in Victoria BC, Canada.
+* [The European Summer University “Culture & Technology”](https://esu.culintec.de/) (ESU) in Leipzig, Germany.
+* [GIAT-IQLA Summer School in Quantitative Analysis of Textual Data](https://www.fisppa.unipd.it/giat-it) in Padova, Italy.
+
+In the upcoming years the ESU event will probably travel from Leipzig to Cluj-Napoca (Romania), and in post-pandemic world Victoria is farther away than it used to be. Therefore, the above list of events might differ a bit in the near future; nonetheless there will definitely be some new opportunities!
+
 
 
 

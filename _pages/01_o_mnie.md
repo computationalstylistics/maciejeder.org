@@ -8,7 +8,7 @@ lang: pl
 
 profile:
   align: right
-  image: m_e_2.jpg
+  image: m_e_1.jpg
 #  address: >
 #    <p>Instytut Języka Pol- skiego PAN</p>
 #    <p>al. Mickiewicza 31</p>

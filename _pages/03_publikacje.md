@@ -20,7 +20,15 @@ lang: pl
 
 ## czasopisma o zasięgu międzynarodowym
 
-**Sbalchiero, S. and Eder, M.** (2020). Topic modeling, long texts and the best number of topics: some problems and solutions. _Quality & Quantity_, **54**(4): 1095–1108, [doi:10.1007/s11135-020-00976-w](https://doi.org/10.1007/s11135-020-00976-w).
+**Eder, M. i Górski, R. L.** (2023). Stylistic fingerprints, POS-tags, and inflected languages: A case study in Polish. _Journal of Quantitative Linguistics_, **30**(1): 86–103, doi:10.1080/09296174.2022.2122751, [pre-print](https://arxiv.org/abs/2206.02208).
+
+**Eder, M.** (2022). [Boosting word frequencies in authorship attribution](https://ceur-ws.org/Vol-3290/long_paper5362.pdf). _CHR 2022: Computational Humanities Research_. Antwerp, pp. 387–97, [pre-print](http://arxiv.org/abs/2211.01289).
+
+**Górski, R. L. i Eder, M.** (2022). Modeling the dynamics of language change: logistic regression, Piotrowski’s law, and a handful of examples in Polish. _Journal of Quantitative Linguistics_, doi:10.1080/09296174.2022.2151208, [pre-print](https://arxiv.org/abs/2104.06324).
+
+**Škorić, M., Stanković, R., Ikonić Nešić, M., Byszuk, J. i Eder, M.** (2022). [Parallel stylometric document embeddings with deep learning based language models in literary authorship attribution](https://www.mdpi.com/2227-7390/10/5/838). _Mathematics_, **10**(5): 838, doi:10.3390/math10050838.
+
+**Sbalchiero, S. i Eder, M.** (2020). Topic modeling, long texts and the best number of topics: some problems and solutions. _Quality & Quantity_, **54**(4): 1095–1108, [doi:10.1007/s11135-020-00976-w](https://doi.org/10.1007/s11135-020-00976-w).
 
 **Choiński, M., Eder, M. i Rybicki, J.** (2019). [Harper Lee and other people: a stylometric diagnosis](https://www.questia.com/library/journal/1G1-606942042/harper-lee-and-other-people-a-stylometric-diagnosis). _Mississippi Quarterly_, **70/71**(3): 355–374.
 
@@ -66,6 +74,7 @@ lang: pl
 
 ## czasopisma o zasięgu krajowym
 
+**Maryl, M. i Eder, M.** (w druku). Słowozbiory ‘Tekstów Drugich’. _Teksty Drugie_.
 
 **Eder, M. i Górski, R. L.** (2019). [Typologia tekstów oparta na miarach kwantytatywnych: studium korpusowe o zróżnicowaniu polszczyzny](https://jezyk-polski.pl/wp-content/uploads/2019/10/JP_vol_99_no3.pdf). _Język Polski_, **99**(3): 5–17.
 
@@ -131,8 +140,9 @@ lang: pl
 
 ## rozdziały w tomach zbiorowych
 
+**Šeļa, A., Nagy, B., Byszuk, J., Hernández-Lorenzo, L., Szemes, B. i Eder, M.** (w druku). From stage to page: language independent bootstrap measures of distinctiveness in fictional speech, [pre-print](https://arxiv.org/abs/2301.05659).
 
-**Eder, M., Rybicki, J. i Kestemont, M.** (2020). Measuring style. In O’Sullivan, J. (ed), _Digital Humanities for Literary Studies: Methods, Tools & Practices_. TAMU University Press, w druku.
+**Idziak, J., Šeļa, A., Woźniak, M., Leśniak, A., Byszuk, J. i Eder, M.** (2021). Scalable handwritten text recognition system for lexicographic sources of under-resourced languages and alphabets. _Computational Science – ICCS 2021_, vol. 1. (LNCS 12742). Springer, pp. 137–50, [pre-print](https://arxiv.org/).
 
 **Eder, M.** (2018). Elena Ferrante: a virtual author. In Tuzzi, A. and Cortelazzo, M. A. (eds), _Drawing Elena Ferrante’s Profile_. Padova: Padova University Press, pp. 31–45, [http://www.padovauniversitypress.it/publications/9788869381300](http://www.padovauniversitypress.it/publications/9788869381300).
 
@@ -174,7 +184,9 @@ lang: pl
 
 ## inne publikacje
 
-**Byszuk, J., Woźniak, M., Kestemont, M., Leśniak, A., Łukasik, W., Šeļa, A. and Eder, M.** (2020). [Detecting direct speech in multilingual collection of 19th century novels](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/LT4HALAbook.pdf). _Proceedings of the LREC 2020. Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA 2020)_. Marseille, pp. 100–04.
+**Schöch, C., Eder, M., Arias, R., Francois, P. i Primorac, A.** (2020). [Foundations of Distant Reading. Historical Roots, Conceptual Development and Theoretical Assumptions around Computational Approaches to Literary Texts](https://dh2020.adho.org/wp-content/uploads/2020/07/521_FoundationsofDistantReadingHistoricalRootsConceptualDevelopmentandTheoreticalAssumptionsaroundComputationalApproachestoLiteraryTexts.html). _Digital Humanities 2020: Book of Abstracts_. Ottawa.
+
+**Byszuk, J., Woźniak, M., Kestemont, M., Leśniak, A., Łukasik, W., Šeļa, A. i Eder, M.** (2020). [Detecting direct speech in multilingual collection of 19th century novels](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/LT4HALAbook.pdf). _Proceedings of the LREC 2020. Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA 2020)_. Marseille, pp. 100–04.
 
 **Eder, M. i Byszuk, J.** (2019). Feature selection in authorship attribution: ordering the wordlist. _Digital Humanities 2019: Book of Abstracts_. Utrecht [https://dev.clariah.nl/files/dh2019/boa/0930.html](https://dev.clariah.nl/files/dh2019/boa/0930.html).
 

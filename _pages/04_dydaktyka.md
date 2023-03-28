@@ -10,9 +10,11 @@ lang: pl
 
 Pomijając regularne kursy uniwersyteckie oraz seminarium dla doktorantów – którym na razie nie poświęcam tutaj uwagi; brakujące materiały będę zamieszczać sukcesywnie – pewnym zainteresowaniem cieszą się warsztaty i kursy ze statystycznej analizy tekstu, które prowadzę na różnych letnich szkołach i czasem podczas konferencji. Zainteresowanych udziałem w jednym z takich kursów odsyłam w następujące miejsca, gdzie pojawiam się dość regularnie:
 
-* [Digital Humanities Summer Institute](http://www.dhsi.org/index.php) (DHSI) w Victorii (Kanada).
-* [The European Summer University “Culture & Technology”](http://www.culingtec.uni-leipzig.de/ESU_C_T/node/97) (ESU) w Lipsku.
-* [GIAT-IQLA Summer School in Quantitative Analysis of Textual Data](http://www.giat.org/?page_id=11&lang=en) w Padwie.
+* [Digital Humanities Summer Institute](https://www.dhsi.org/) (DHSI) w Victorii (Kanada).
+* [The European Summer University “Culture & Technology”](https://esu.culintec.de/) (ESU) w Lipsku.
+* [GIAT-IQLA Summer School in Quantitative Analysis of Textual Data](https://www.fisppa.unipd.it/giat-it) w Padwie.
+
+W najbliższych latach ESU zmieni swój adres, prawdopodobnie będzie to Kluż-Napoka w Rumunii; z kolei Victoria po kilku latach pandemii wydaje się bardziej odległa niż kiedyś. Słowem, powyższą listę pewnie trzeba będzie zmodyfikować. Na pewno jednak będę się pojawiać na tej czy na innej letniej szkole.  
 
 
 ## Dokumentacja programu ‘stylo’
