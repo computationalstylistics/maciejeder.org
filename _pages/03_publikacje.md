@@ -142,7 +142,7 @@ lang: pl
 
 **Šeļa, A., Nagy, B., Byszuk, J., Hernández-Lorenzo, L., Szemes, B. i Eder, M.** (w druku). From stage to page: language independent bootstrap measures of distinctiveness in fictional speech, [[pre-print](https://arxiv.org/abs/2301.05659)].
 
-**Idziak, J., Šeļa, A., Woźniak, M., Leśniak, A., Byszuk, J. i Eder, M.** (2021). Scalable handwritten text recognition system for lexicographic sources of under-resourced languages and alphabets. _Computational Science – ICCS 2021_, vol. 1. (LNCS 12742). Springer, pp. 137–50, [[pre-print](https://arxiv.org/)].
+**Idziak, J., Šeļa, A., Woźniak, M., Leśniak, A., Byszuk, J. i Eder, M.** (2021). Scalable handwritten text recognition system for lexicographic sources of under-resourced languages and alphabets. _Computational Science – ICCS 2021_, vol. 1. (LNCS 12742). Springer, pp. 137–50, [[pre-print](https://arxiv.org/abs/2303.16256/)].
 
 **Eder, M.** (2018). Elena Ferrante: a virtual author. In Tuzzi, A. and Cortelazzo, M. A. (eds), _Drawing Elena Ferrante’s Profile_. Padova: Padova University Press, pp. 31–45, [http://www.padovauniversitypress.it/publications/9788869381300](http://www.padovauniversitypress.it/publications/9788869381300).
 
