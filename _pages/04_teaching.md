@@ -11,10 +11,10 @@ lang: en
 Apart from my regular university courses – which are not covered on this page yet – I enjoy teaching workshops and other extra-curricular courses at different summer schools, conferences, and so forth. These include, at the first place, the following annual (or biannual) events:
 
 * [Digital Humanities Summer Institute](https://www.dhsi.org/) (DHSI) in Victoria BC, Canada.
-* [The European Summer University “Culture & Technology”](https://esu.culintec.de/) (ESU) in Leipzig, Germany.
-* [GIAT-IQLA Summer School in Quantitative Analysis of Textual Data](https://www.fisppa.unipd.it/giat-it) in Padova, Italy.
+* [The European Summer University “Culture & Technology”](https://esu-ct.conference.ubbcluj.ro/) (ESU) formerly in Leipzig, Germany, and these days in Cluj-Napoca, Romania.
+* [GIAT-IQLA Summer School in Quantitative Analysis of Textual Data](https://www.fisppa.unipd.it/giat-en/home) in Padova, Italy.
 
-In the upcoming years the ESU event will probably travel from Leipzig to Cluj-Napoca (Romania), and in post-pandemic world Victoria is farther away than it used to be. Therefore, the above list of events might differ a bit in the near future; nonetheless there will definitely be some new opportunities!
+In the upcoming 3 years the ESU event will travel to Cluj-Napoca (Romania), and later to somewhere else; whereas the school Victoria seems to be back to its pre-pandemic shape, but my course underwent some reshaping. Therefore, the above list of events might differ a bit in the near future; nonetheless there will definitely be some opportunities around!
 
 
 
@@ -52,4 +52,5 @@ I have also recorded a few short videos on using and installing the package ‘s
 
 * [Introduction, including executable code](https://github.com/computationalstylistics/topic-modeling-workshop)
 * [Lecture slides](https://computationalstylistics.github.io/presentations/topic_modeling_intro/intro_to_topic_models.html)  
+* Blog post [From texts to topics, with some NLP in between](https://computationalstylistics.github.io/blog/topic_modeling_lemmatized/), with fully-replicable code in R.
 
