@@ -67,6 +67,8 @@ lang: en
 
 ## national peer reviewed journals
 
+**Eder, M., Duska, J., Łukaszewicz-Chantry, M., Janicki, M. i Szostek, T.** (2024). O nowym wydaniu „Fraszek” Jana Kochanowskiego. _Pamiętnik Literacki_, **115**(1): 519.
+
 **Maryl, M. and Eder, M.** (2023). Słowozbiory ‘Tekstów Drugich’. _Teksty Drugie_, 1: 346–364.
 
 **Eder, M. and Górski, R. L.** (2019). [Typologia tekstów oparta na miarach kwantytatywnych: studium korpusowe o zróżnicowaniu polszczyzny](https://jezyk-polski.pl/wp-content/uploads/2019/10/JP_vol_99_no3.pdf). _Język Polski_, **99**(3): 5–17.
@@ -136,8 +138,7 @@ lang: en
 
 **Šeļa, A., Nagy, B., Byszuk, J., Hernández-Lorenzo, L., Szemes, B. and Eder, M.** (forthcoming). From stage to page: language independent bootstrap measures of distinctiveness in fictional speech, [[pre-print](https://arxiv.org/abs/2301.05659)].
 
-**Eder, M.** (2023). Tekst w humanistyce cyfrowej. Modelowanie tematyczne. In A. Pawłowski (Ed.), _Od Gutenberga do Zuckerberga. Wstęp do humanistyki cyfrowej_. Universitas, pp. 129–141.
-
+**Eder, M.** (2023). Tekst w humanistyce cyfrowej. Modelowanie tematyczne. In Pawłowski, A. (ed), _Od Gutenberga Do Zuckerberga. Wstęp Do Humanistyki Cyfrowej_. Kraków: Universitas, pp. 129–141.
 
 **Idziak, J., Šeļa, A., Woźniak, M., Leśniak, A., Byszuk, J. and Eder, M.** (2021). Scalable handwritten text recognition system for lexicographic sources of under-resourced languages and alphabets. _Computational Science – ICCS 2021_, vol. 1. (LNCS 12742). Springer, pp. 137–50, [[pre-print](https://arxiv.org/abs/2303.16256/)].
 
