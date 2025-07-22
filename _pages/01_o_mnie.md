@@ -8,7 +8,7 @@ lang: pl
 
 profile:
   align: right
-  image: m_e_1.jpg
+  image: m_e_5.jpg
 #  address: >
 #    <p>Instytut Języka Pol- skiego PAN</p>
 #    <p>al. Mickiewicza 31</p>
@@ -19,7 +19,7 @@ social: true
 ---
 
 
-Pełnię funkcję dyrektora Instytutu Języka Polskiego PAN, pracuję również, choć w znacznie mniejszym zakresie, w Instytucie Filologii Polskiej Uniwersytetu Pedagogicznego w Krakowie.
+Jestem profesorem w Instytucie Języka Polskiego PAN w Krakowie, a także profesorem wizytującym na Uniwersytecie Tartuskim.
 
 Mimo że moja formacja uniwersytecka związana jest z literaturą staropolską (głównie XVI- i XVII-wieczną), obecne zajmuję się przede wszystkim komputerową analizą tekstu czy też – żeby ująć rzecz bardziej precyzyjnie – przecięciem historii literatury, językoznawstwa kwantytatywnego oraz zastosowania metod komputerowych (w szczególności statystycznych metod uczenia maszynowego). Jak się wydaje, takie połączenie z pozoru różnorodnych dyscyplin dobrze opisuje nazwa “humanistyka cyfrowa” (_Digital Humanities_). Ten wyodrębniający się coraz bardziej obszar wiedzy wydaje mi się szczególnie interesujący głównie z tego powodu, że daje narzędzia do nowego spojrzenia na wiele dawnych pytań stawianych w humanistyce, przy czym są to narzędzia wypracowane przez nauki ścisłe, połączone z ogromną mocą obliczeniową współczesnych komputerów oraz z ilością danych, o której nasi poprzednicy mogli tylko marzyć. Humanistyka cyfrowa wydaje mi się jednak atrakcyjna również dlatego, że wymaga myślenia w kategoriach zespołów badawczych i _współpracy_ uczonych z różnych specjalności. Wreszcie, owa stosunkowo młoda dyscyplina pociąga swoją inkluzywnością: otóż stara się ona przezwyciężyć – a przynajmniej dostrzegać – ukryte i jawne niesprawiedliwości hierarchicznego świata akademickiego (jestem przekonany, że humanistyka cyfrowa jest w stanie dać innym dyscyplinom impuls to zmiany w tym zakresie).
 

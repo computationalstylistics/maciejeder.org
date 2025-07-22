@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: about
-description: An academic researcher
+description: an academic researcher
 ref: about
 lang: en
 
@@ -19,7 +19,7 @@ social: true
 ---
 
 
-I am the Director of the Institute of Polish Language at the Polish Academy of Sciences, and an Associate Professor at the Pedagogical University of Kraków, Poland (the latter part-time). 
+I am professor of linguistics at the Institute of Polish Language (Polish Academy of Sciences), Kraków, and visiting professor in digital humanities at the University of Tartu, Estonia. 
 
 Although my background is early modern literature (Polish and Latin), my main field seems to be computer-assisted text analysis or, to be precise, a cross-section of literature, quantitative linguistics, and computational methodology, with special attention paid to machine-learning techniques. Seemingly, the best description of such a combination of research interests can be referred to as Digital Humanities. What I find particularly interesting in this field, is that it re-opens some old research questions and tries to answer them using exact methodology, taking advantage of ever-growing computer power and analyzing amounts of data that our predecessors couldn’t even dream of. Next, I like Digital Humanities’ emphasis on team work and actual _collaboration_ between scholars from different disciplines. Last but not least, I find Digital Humanities attractive because of its inclusiveness, or at least, awareness to implicit and explicit imbalances that affect academia; I do believe that the DH community has a potential to spread the ideas of inclusiveness to other academic fields.
 
