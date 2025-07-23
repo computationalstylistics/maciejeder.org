@@ -76,7 +76,7 @@ lang: pl
 
 **Eder, M., Duska, J., Łukaszewicz-Chantry, M., Janicki, M. i Szostek, T.** (2024). O nowym wydaniu „Fraszek” Jana Kochanowskiego. _Pamiętnik Literacki_, **115**(1): 5–19.
 
-**Maryl, M. i Eder, M.** (2023). Słowozbiory ‘Tekstów Drugich’. _Teksty Drugie_, 1: 346–364.
+**Maryl, M. i Eder, M.** (2023). Słowozbiory „Tekstów Drugich”. _Teksty Drugie_, 1: 346–64 [https://doi.org/10.18318/td.2023.1.21](https://doi.org/10.18318/td.2023.1.21).
 
 **Eder, M. i Górski, R. L.** (2019). [Typologia tekstów oparta na miarach kwantytatywnych: studium korpusowe o zróżnicowaniu polszczyzny](https://jezyk-polski.pl/wp-content/uploads/2019/10/JP_vol_99_no3.pdf). _Język Polski_, **99**(3): 5–17.
 
@@ -142,7 +142,7 @@ lang: pl
 
 ## rozdziały w tomach zbiorowych
 
-**Šeļa, A., Nagy, B., Byszuk, J., Hernández-Lorenzo, L., Szemes, B. i Eder, M.** (w druku). From stage to page: language independent bootstrap measures of distinctiveness in fictional speech, [[pre-print](https://arxiv.org/abs/2301.05659)].
+**Šeļa, A., Nagy, B., Byszuk, J., Hernández-Lorenzo, L., Szemes, B. i Eder, M.** (2024). From stage to page: language independent bootstrap measures of distinctiveness in fictional speech. In Andersen, M. and Reiter, N. (eds), _Computational Drama Analysis: Reflecting on Methods and Interpretations_. de Gruyter, pp. 149–66 [https://www.degruyter.com/document/doi/10.1515/9783111071824/html](https://www.degruyter.com/document/doi/10.1515/9783111071824/html), [[pre-print](https://arxiv.org/abs/2301.05659)]
 
 **Eder, M.** (2023). Tekst w humanistyce cyfrowej. Modelowanie tematyczne. In Pawłowski, A. (ed), _Od Gutenberga Do Zuckerberga. Wstęp Do Humanistyki Cyfrowej_. Kraków: Universitas, pp. 129–141.
 
@@ -187,6 +187,8 @@ lang: pl
 
 
 ## inne publikacje
+
+**Eder, M. i Ochab, J.** (2024). Manhattan, Euclidean, and their siblings: exploring exotic similarity measures in text classification. _Digital Humanities 2024: Book of Abstracts_. pp. 162–66 [https://zenodo.org/records/13761079](https://zenodo.org/records/13761079).
 
 **Schöch, C., Eder, M., Arias, R., Francois, P. i Primorac, A.** (2020). [Foundations of Distant Reading. Historical Roots, Conceptual Development and Theoretical Assumptions around Computational Approaches to Literary Texts](https://dh2020.adho.org/wp-content/uploads/2020/07/521_FoundationsofDistantReadingHistoricalRootsConceptualDevelopmentandTheoreticalAssumptionsaroundComputationalApproachestoLiteraryTexts.html). _Digital Humanities 2020: Book of Abstracts_. Ottawa.
 
