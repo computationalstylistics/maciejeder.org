@@ -23,7 +23,7 @@
         {% endif %}
         <td class="announcement">
           {% if item.inline %}
-            <span class="news-flow">{{ item.content | emojify }}</span>
+            {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
           {% else %}
             <a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
           {% endif %}
