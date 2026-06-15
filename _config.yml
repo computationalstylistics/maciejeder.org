@@ -66,7 +66,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 15
+news_limit: 25
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -84,32 +84,32 @@ exclude: [vendor]
 plugins:
     - jekyll-email-protect
     - jekyll-paginate
-    - jekyll/scholar
+    #- jekyll/scholar
     - jemoji
 
-# Jekyll-Scholar
-scholar:
-
-  last_name: Eder
-
-  style: apa
-  locale: en
-
-  sort_by: year
-  order: descending
-
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
-
-  replace_strings: true
-  join_strings: true
-
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
-
-  query: "@*"
+## Jekyll-Scholar
+#scholar:
+#
+#  last_name: Eder
+#
+#  style: apa
+#  locale: en
+#
+#  sort_by: year
+#  order: descending
+#
+#  source: /_bibliography/
+#  bibliography: papers.bib
+#  bibliography_template: bib
+#
+#  replace_strings: true
+#  join_strings: true
+#
+#  details_dir: bibliography
+#  details_layout: bibtex.html
+#  details_link: Details
+#
+#  query: "@*"
 
 # -----------------------------------------------------------------------------
 # Other settings
